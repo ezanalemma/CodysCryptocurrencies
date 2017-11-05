@@ -1,0 +1,54 @@
+/* Class = "UILabel"; text = "Label"; ObjectID = "C9m-Pm-IeU"; */
+"C9m-Pm-IeU.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Save this as my current coin holding"; ObjectID = "EkO-vU-PAg"; */
+//"EkO-vU-PAg.normalTitle" = "Save this as my current coin holding";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KaS-Ag-eCx"; */
+"KaS-Ag-eCx.text" = "Label";
+
+/* Class = "UILabel"; text = "Enter coins you hold:"; ObjectID = "RRD-zZ-K2i"; */
+"RRD-zZ-K2i.text" = "Ingresa monedas:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Rgy-tU-e5K"; */
+"Rgy-tU-e5K.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Cody’s Cryptocurrencies"; ObjectID = "X00-kF-ewz"; */
+"X00-kF-ewz.title" = "Criptas de Cody";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YZQ-oY-5pp"; */
+"YZQ-oY-5pp.text" = "Label";
+
+/* Class = "UILabel"; text = "Your Coin from last input: $0.00"; ObjectID = "fut-TL-LOT"; */
+//"fut-TL-LOT.text" = "Your Coin from last input: $0.00";
+"fut-TL-LOT.text" = "Sus monedas de entrada son: €0.00";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jpE-aZ-dZ0"; */
+"jpE-aZ-dZ0.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nMo-ik-rTH"; */
+"nMo-ik-rTH.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oaV-R1-vSX"; */
+"oaV-R1-vSX.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qZm-Z6-VGO"; */
+"qZm-Z6-VGO.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rJY-tC-2hM"; */
+"rJY-tC-2hM.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Add Cryptocurrencies"; ObjectID = "wlZ-qc-iFs"; */
+"wlZ-qc-iFs.title" = "Agregue criptocurrencias";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "y9E-N9-hNM"; */
+"y9E-N9-hNM.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yky-Cx-0gw"; */
+"yky-Cx-0gw.text" = "Label";
+
+"WrZ-ll-LIy.text" = "Nombre";
+
+"IMe-Uw-h8w.text" = "La tenencia";
+
+"0gF-Ui-5pk.text" = "Precio";
